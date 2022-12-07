@@ -170,8 +170,7 @@ class ROS2Roomba : public rclcpp::Node {
                 "Found Obstacle, gonna turn");
                 return true;
                 }
-      }export GAZEBO_MODEL_PATH=`ros2 pkg prefix turtlebot3_gazebo`/share/turtlebot3_gazebo/models/
-export TURTLEBOT3_MODEL=waffle_pi
+      }
       return false;
     }
     return false;
