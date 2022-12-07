@@ -1,0 +1,2 @@
+Done processing ./src/redirect_from_obstacles.cpp
+Total errors found: 1
